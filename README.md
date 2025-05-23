@@ -17,6 +17,8 @@ Aplicación web para agendar y consultar citas médicas en la clínica ECI Salud
 
 
 <img width="388" alt="image" src="https://github.com/user-attachments/assets/5c68b82b-24d6-4a47-a520-2a30ffdbea6f" />
+<img width="311" alt="image" src="https://github.com/user-attachments/assets/421e9d69-2359-40d4-96a9-7184ed50a444" />
+
 
 
 ## Cómo Ejecutar
