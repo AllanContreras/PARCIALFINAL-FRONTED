@@ -16,6 +16,7 @@ Aplicación web para agendar y consultar citas médicas en la clínica ECI Salud
 - `/historial?correo=usuario@ejemplo.com`: Historial de citas del usuario.
 
 
+<img width="388" alt="image" src="https://github.com/user-attachments/assets/5c68b82b-24d6-4a47-a520-2a30ffdbea6f" />
 
 
 ## Cómo Ejecutar
